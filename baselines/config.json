@@ -1,0 +1,4 @@
+{
+    "CACHE_DIR": "~/.cache/torch/transformers/Helsinki",
+    "DATA_DIR": "/home/pod/VLLM/data/dataset/safety_evaluation_benchmark_datasets"
+}
